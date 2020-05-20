@@ -10,7 +10,7 @@ from flask import Flask, flash, redirect, render_template, request, session, abo
 import logging 
 from pdf_generator import pdf_generator
 from send_mail import send_email
-from timeit import default_timer as timer
+#from timeit import default_timer as timer
 import email_creds
 
 app = Flask(__name__)
