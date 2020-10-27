@@ -30,7 +30,7 @@ Click==7.0
 cloudpickle==0.5.6
 configparser==4.0.2
 coverage==4.5.4
-cryptography==2.8
+cryptography==3.2
 cycler==0.10.0
 Cython==0.29.14
 decorator==4.3.0
