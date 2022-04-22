@@ -233,7 +233,7 @@ pyobjc-framework-VideoToolbox==6.1
 pyobjc-framework-Vision==6.1
 pyobjc-framework-WebKit==6.1
 pyparsing==2.4.7
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 PyQt5==5.10
 PyQtWebEngine==5.12.1
 PySocks==1.7.1
