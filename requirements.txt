@@ -98,7 +98,7 @@ mpmath==1.1.0
 multidict==4.7.4
 mysql-connector==2.2.9
 mysql-connector-python==8.0.12
-nbconvert==5.4.0
+nbconvert==6.5.1
 nbformat==4.4.0
 nltk==3.3
 numpy==1.18.1
